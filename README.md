@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Web developer from Belgium</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kzakaria97&label=Profile%20views&color=0e75b6&style=flat" alt="kzakaria97" /> </p>
 <p><img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=kzakaria97&show_icons=true&locale=en" alt="kzakaria97" />
 <img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzakaria97&show_icons=true&locale=en&layout=compact" alt="kzakaria97" /></p>
 
